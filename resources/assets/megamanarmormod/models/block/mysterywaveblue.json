@@ -1,0 +1,53 @@
+{
+	"parent": "minecraft:block/cube_all",
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"render_type": "minecraft:cutout",
+	"textures": {
+		"0": "megamanarmormod:block/mysterywavebluetop",
+		"1": "megamanarmormod:block/mysterywaveblueside",
+		"2": "megamanarmormod:block/mysterywaveblueparticle2",
+		"particle": "megamanarmormod:block/mysterywavebluetop"
+	},
+	"elements": [
+		{
+			"from": [2, 4, 2],
+			"to": [14, 12, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [2, 4, 2]},
+			"faces": {
+				"north": {"uv": [2, 4, 14, 12], "texture": "#1"},
+				"east": {"uv": [2, 4, 14, 12], "texture": "#1"},
+				"south": {"uv": [2, 4, 14, 12], "texture": "#1"},
+				"west": {"uv": [2, 4, 14, 12], "texture": "#1"},
+				"up": {"uv": [2, 2, 14, 14], "texture": "#0"},
+				"down": {"uv": [2, 2, 14, 14], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8, 12, 0],
+			"to": [8, 28, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 12, 0]},
+			"faces": {
+				"north": {"uv": [2, 0, 2, 16], "texture": "#2"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"south": {"uv": [0, 0, 0, 16], "texture": "#2"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"up": {"uv": [0, 0, 0, 16], "texture": "#2"},
+				"down": {"uv": [0, 0, 0, 16], "texture": "#2"}
+			}
+		},
+		{
+			"from": [0, 12, 8],
+			"to": [16, 28, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 12, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"east": {"uv": [16, 0, 16, 16], "texture": "#2"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#2"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#2"},
+				"down": {"uv": [0, 16, 16, 16], "texture": "#2"}
+			}
+		}
+	]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "megamanarmormod:block/titaniumx_block"
+  }
+}
