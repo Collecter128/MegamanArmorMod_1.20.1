@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "megamanarmormod:mysterywavepurple_compressed_item"
+    }
+  ],
+  "result": {
+    "item": "megamanarmormod:mysterywavepurple_item",
+    "count": 9
+  }
+}

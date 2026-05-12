@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "megamanarmormod:mysterydatablue_compressed_item"
+    }
+  ],
+  "result": {
+    "item": "megamanarmormod:mysterydatablue_item",
+    "count": 9
+  }
+}

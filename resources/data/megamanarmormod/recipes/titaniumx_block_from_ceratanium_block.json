@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" 1 ",
+		"2 3"
+	],
+	"key": {
+		"1": {
+			"item": "megamanarmormod:mega_mini_forge_powered"
+		},
+		"2": {
+			"item": "megamanarmormod:ceratanium_block_item"
+		},
+		"3": {
+			 "item": "minecraft:lapis_block"
+		}
+	},
+	"result": {
+		"item": "megamanarmormod:titaniumx_block_item",
+		"count": 1
+	}
+}

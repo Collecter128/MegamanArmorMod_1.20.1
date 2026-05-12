@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"CCC",
+		"CCC",
+		"CCC"
+	],
+	"key": {
+		"C": {
+			"item": "megamanarmormod:titaniumx_ingot"
+		}
+	},
+	"result": {
+		"item": "megamanarmormod:titaniumx_block_item",
+		"count": 1
+	}
+}

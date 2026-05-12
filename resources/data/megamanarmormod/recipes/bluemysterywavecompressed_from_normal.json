@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"CCC",
+		"CCC",
+		"CCC"
+	],
+	"key": {
+		"C": {
+			"item": "megamanarmormod:mysterywaveblue_item"
+		}
+	},
+	"result": {
+		"item": "megamanarmormod:mysterywaveblue_compressed_item",
+		"count": 1
+	}
+}

@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "megamanarmormod:megamanarmor_helmet"
+    },
+    "title": {
+      "translate": "advancements.megamanarmormod.root.title"
+    },
+    "description": {
+      "translate": "advancements.megamanarmormod.root.description"
+    },
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true,
+    "background": "megamanarmormod:textures/block/ceratanium_block.png"
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

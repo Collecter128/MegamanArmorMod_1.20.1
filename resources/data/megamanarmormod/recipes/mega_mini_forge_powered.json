@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"1",
+		"2"
+	],
+	"key": {
+		"1": {
+			"item": "megamanarmormod:mega_mini_forge"
+		},
+		"2": {
+			 "tag": "minecraft:planks"
+		}
+	},
+	"result": {
+		"item": "megamanarmormod:mega_mini_forge_powered",
+		"count": 1
+	}
+}

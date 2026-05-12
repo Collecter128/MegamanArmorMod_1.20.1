@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"CCC",
+		"C C"
+	],
+	"key": {
+		"C": {
+			"item": "megamanarmormod:ceratanium_ingot"
+		}
+	},
+	"result": {
+		"item": "megamanarmormod:megamanarmor_helmet",
+		"count": 1
+	}
+}

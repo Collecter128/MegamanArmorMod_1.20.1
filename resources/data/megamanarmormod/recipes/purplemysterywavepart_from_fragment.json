@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"CC"
+	],
+	"key": {
+		"C": {
+			"item": "megamanarmormod:mysterywavefragmentpurple"
+		}
+	},
+	"result": {
+		"item": "megamanarmormod:mysterywavepartpurple",
+		"count": 1
+	}
+}

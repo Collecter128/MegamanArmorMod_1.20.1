@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"C C",
+		"C C"
+	],
+	"key": {
+		"C": {
+			"item": "megamanarmormod:titaniumx_ingot"
+		}
+	},
+	"result": {
+		"item": "megamanarmormod:megamanx_boots",
+		"count": 1
+	}
+}

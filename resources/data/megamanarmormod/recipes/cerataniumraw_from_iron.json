@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"111",
+		"121",
+		"111"
+	],
+	"key": {
+		"1": {
+			"item": "minecraft:raw_iron"
+		},
+		"2": {
+			"item": "minecraft:diamond"
+		}
+	},
+	"result": {
+		"item": "megamanarmormod:ceratanium_raw_block_item",
+		"count": 1
+	}
+}

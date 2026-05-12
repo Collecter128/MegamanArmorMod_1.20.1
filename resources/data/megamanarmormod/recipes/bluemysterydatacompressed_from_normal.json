@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"CCC",
+		"CCC",
+		"CCC"
+	],
+	"key": {
+		"C": {
+			"item": "megamanarmormod:mysterydatablue_item"
+		}
+	},
+	"result": {
+		"item": "megamanarmormod:mysterydatablue_compressed_item",
+		"count": 1
+	}
+}

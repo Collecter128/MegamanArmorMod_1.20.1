@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {"item": "megamanarmormod:ceratanium_raw"},
+	"result": "megamanarmormod:ceratanium_ingot",
+	"experience": 0.7,
+	"cookingtime": 200
+
+}
