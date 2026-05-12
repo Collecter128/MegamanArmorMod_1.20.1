@@ -1,0 +1,77 @@
+{
+	"item.megamanarmormod.mega_mini_forge": "Mega Mini Forge",
+	"item.megamanarmormod.mega_mini_forge_powered": "Powered Mega Mini Forge",
+	
+	"item.megamanarmormod.ceratanium_raw": "Raw Ceratanium",
+	"item.megamanarmormod.ceratanium_nugget": "Ceratanium Nugget",
+	"item.megamanarmormod.ceratanium_ingot": "Ceratanium Ingot",
+	
+	"item.megamanarmormod.titaniumx_ingot": "TitaniumX Ingot",
+	
+	"item.megamanarmormod.mysterydatafragmentblue": "Blue Mystery Data Fragment",
+	"item.megamanarmormod.mysterydatapartblue": "Blue Mystery Data Part",
+	
+	"item.megamanarmormod.mysterydatafragmentpurple": "Purple Mystery Data Fragment",
+	"item.megamanarmormod.mysterydatapartpurple": "Purple Mystery Data Part",
+	
+	"item.megamanarmormod.data_buster": "Buster Data",
+	
+	"item.megamanarmormod.mysterywavefragmentblue": "Blue Mystery Wave Fragment",
+	"item.megamanarmormod.mysterywavepartblue": "Blue Mystery Wave Part",
+	
+	"item.megamanarmormod.mysterywavefragmentpurple": "Purple Mystery Wave Fragment",
+	"item.megamanarmormod.mysterywavepartpurple": "Purple Mystery Wave Part",
+	
+	"item.megamanarmormod.wave_am": "AM Wave",
+	
+	"item.megamanarmormod.megamanarmor_helmet": "Megaman Helmet",
+	"item.megamanarmormod.megamanarmor_chestplate": "Megaman Chestplate",
+	"item.megamanarmormod.megamanarmor_legs": "Megaman Leggings",
+	"item.megamanarmormod.megamanarmor_boots": "Megaman Boots",
+	
+	"item.megamanarmormod.mettaur_helmet": "Mettaur Helmet",
+	
+	"item.megamanarmormod.megamanx_helmet": "Megaman X Helmet",
+	"item.megamanarmormod.megamanx_chestplate": "Megaman X Chestplate",
+	"item.megamanarmormod.megamanx_legs": "Megaman X Leggings",
+	"item.megamanarmormod.megamanx_boots": "Megaman X Boots",
+	
+	"item.megamanarmormod.megamanexe_helmet": "Megaman.exe Helmet",
+	"item.megamanarmormod.megamanexe_chestplate": "Megaman.exe Chestplate",
+	"item.megamanarmormod.megamanexe_legs": "Megaman.exe Leggings",
+	"item.megamanarmormod.megamanexe_boots": "Megaman.exe Boots",
+	
+	"item.megamanarmormod.megamanstarforce_helmet": "Megaman Starforce Helmet",
+	"item.megamanarmormod.megamanstarforce_chestplate": "Megaman Starforce Chestplate",
+	"item.megamanarmormod.megamanstarforce_legs": "Megaman Starforce Leggings",
+	"item.megamanarmormod.megamanstarforce_boots": "Megaman Starforce Boots",
+	
+	"block.megamanarmormod.ceratanium_ore": "Ceratanium Ore",
+	"block.megamanarmormod.ceratanium_oredeepslate": "Deepslate Ceratanium Ore",
+	"block.megamanarmormod.ceratanium_raw_block": "Raw Ceratanium Block",
+	"block.megamanarmormod.ceratanium_block": "Ceratanium Block",
+	
+	"block.megamanarmormod.titaniumx_block": "TitaniumX Block",
+	
+	"block.megamanarmormod.mysterydatablue": "Blue Mystery Data",
+	"block.megamanarmormod.mysterydatapurple": "Purple Mystery Data",
+	
+	"block.megamanarmormod.mysterydatablue_compressed": "Compressed Blue Mystery Data",
+	"block.megamanarmormod.mysterydatapurple_compressed": "Compressed Purple Mystery Data",
+	
+	"block.megamanarmormod.mysterywaveblue": "Blue Mystery Wave",
+	"block.megamanarmormod.mysterywavepurple": "Purple Mystery Wave",
+	
+	"block.megamanarmormod.mysterywaveblue_compressed": "Compressed Blue Mystery Wave",
+	"block.megamanarmormod.mysterywavepurple_compressed": "Compressed Purple Mystery Wave",
+	
+	"advancements.megamanarmormod.root.title": "Megaman Armor Mod",
+	"advancements.megamanarmormod.root.description": "How to basics for armor",
+	
+	"advancements.megamanarmormod.ceratanium_ingot.title": "A classic Beginning",
+	"advancements.megamanarmormod.ceratanium_ingot.description": "Find or make raw Ceratanium. Then smelt it",
+	
+	"itemGroup.megamanarmorarrmorstab": "Megaman Armor Armors",
+	"itemGroup.megamanarmormaterialstab": "Megaman Armor Materials",
+	"itemGroup.megamanarmormisctab": "Megaman Armor Misc"
+}
